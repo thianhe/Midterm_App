@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">APP01_105590050</string>
+    <string name="result">Result:</string>
+    <string name="hint_result">Please input result</string>
+    <string name="button">Result Changing</string>
+    <string name="show_grade">Grade:</string>
+</resources>
