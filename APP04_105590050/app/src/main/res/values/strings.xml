@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">App4</string>
+    <string-array name="studentlist">
+        <item>Student1</item>
+        <item>Student2</item>
+        <item>Student3</item>
+        <item>Student4</item>
+        <item>Student5</item>
+        <item>Student6</item>
+        <item>Student7</item>
+        <item>Student8</item>
+        <item>Student9</item>
+        <item>Student10</item>
+    </string-array>
+</resources>
